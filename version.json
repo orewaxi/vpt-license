@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "url": "file:///D:/vpt/dist/VPTManager.exe",
+  "sha256": "71405f2b4b91c3fc48458c9a2702b322e1f1229a5c6bfe1e77fba8c3667ddd1c",
+  "sig": "lkf0Eqq_k3SeRtLj8S6R7asuoImFcrnOotq0NjGd5_du7C6PQjhsm1S42ecvUS3IM0UyffKZeo2QynMsHPM3Ag",
+  "notes": "Test self-update 1.0.0 -> 1.0.1"
+}
