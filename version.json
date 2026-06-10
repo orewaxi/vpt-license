@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "url": "file:///D:/vpt/dist/VPTManager.exe",
-  "sha256": "71405f2b4b91c3fc48458c9a2702b322e1f1229a5c6bfe1e77fba8c3667ddd1c",
-  "sig": "lkf0Eqq_k3SeRtLj8S6R7asuoImFcrnOotq0NjGd5_du7C6PQjhsm1S42ecvUS3IM0UyffKZeo2QynMsHPM3Ag",
-  "notes": "Test self-update 1.0.0 -> 1.0.1"
+  "version": "1.0.2",
+  "url": "https://xvytklulmrzmbxusqdaj.supabase.co/storage/v1/object/public/releases/VPTManager-1.0.2.exe",
+  "sha256": "c9b3b1d8cc5b242810b09876ce078d50be93fca89472d7f1d297300e2f493bf9",
+  "sig": "eqmx7V7iGQASSfNQTbx2K5JSUsH87azZb5qYU3mTuy5cyFuwscqEyJbVSrmofwFpz6W92hWXh4LLy4TAzChbCA",
+  "notes": "Cloud release 1.0.2 (fixed self-update)"
 }
